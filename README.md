@@ -9,3 +9,5 @@ Im trying and learning new skills to incoporate to my newly taught skills and I 
 For now, its safe to say that Moringa school has helped me a lot.
 I have another project in the "i-p" folder in this repository.It is more advanced than this project
 with more CSS and HTML style incorporated.
+
+Find my live website here https://johnmartin-19.github.io/polog/
