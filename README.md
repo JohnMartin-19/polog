@@ -11,3 +11,7 @@ I have another project in the "i-p" folder in this repository.It is more advance
 with more CSS and HTML style incorporated.
 
 Find my live website here https://johnmartin-19.github.io/polog/
+
+
+
+©JohnMburu2020
